@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LamaV10
 - 👀 I’m interested in ... Bruno Banani
-- 🌱 I’m currently learning ... Pascal
+- 🌱 I’m currently learning ... scratch
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... don't
 - 😄 Pronouns: ... apri/kose
