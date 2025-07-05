@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LamaV10
-- 👀 I’m interested in ... Bruno Banani
+- 👀 I’m not interested in ... j*b 
 - 🌱 I’m currently learning ... scratch
-- 💞️ I’m looking to collaborate on ... taking over Microsoft
-- 📫 How to reach me ... 192.168.1.69
+- 💞️ I’m looking to collaborate on ... deleting java
+- 📫 How to reach me ... 192.168.1.187
 - 😄 Pronouns: ... apri/kose
 - ⚡ Fun fact: ... sudo rm -rf /*
 
