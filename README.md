@@ -5,6 +5,7 @@
 - 📫 How to reach me ... 192.168.1.187
 - 😄 Pronouns: ... apri/kose
 - ⚡ Fun fact: ... sudo rm -rf /*
+- one of the dumbest profiles you'll ever see
 
 <!---
 LamaV10/LamaV10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
